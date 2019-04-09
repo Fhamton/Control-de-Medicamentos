@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "626205127610",
+    "firebase_url": "https://medicines-f67c6.firebaseio.com",
+    "project_id": "medicines-f67c6",
+    "storage_bucket": "medicines-f67c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626205127610:android:c631a29a36ea0aec",
+        "android_client_info": {
+          "package_name": "com.example.allan.medicines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626205127610-uqv8feo4e28levqsso1cvq50nsiumsa2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allan.medicines",
+            "certificate_hash": "725b69a8e49f60f4e3bb8e6824b585b7cd57e0b2"
+          }
+        },
+        {
+          "client_id": "626205127610-dllvj705r3copm1o0nd2lobt8pmgm1hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4VdORm6aKfz6WCo8OTi-_2dBH1_N-Ffk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626205127610-dllvj705r3copm1o0nd2lobt8pmgm1hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
