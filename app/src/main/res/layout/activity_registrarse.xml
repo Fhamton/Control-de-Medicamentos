@@ -46,5 +46,6 @@
             android:layout_marginBottom="8dp" app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintVertical_bias="0.235" android:layout_marginEnd="8dp"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.347"
-            android:background="@android:color/background_light"/>
+            android:background="@android:color/background_light"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"/>
 </android.support.constraint.ConstraintLayout>

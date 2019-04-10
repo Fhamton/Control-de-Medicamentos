@@ -84,7 +84,7 @@ class Adaptador(val contexto : Context, val layoutId:Int, val listaMedicinas:Lis
         // se crea un dialogo
         val builder = AlertDialog.Builder(contexto)
         // titulo del dialogo
-        builder.setTitle("Update Info")
+        builder.setTitle("Actualizar")
 
         // variables que controlan la vista que vamos a llenar
         val inflater = LayoutInflater.from(contexto)

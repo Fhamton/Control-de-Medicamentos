@@ -44,7 +44,8 @@
             app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
             app:layout_constraintHorizontal_bias="0.475"
             android:layout_marginTop="30dp" app:layout_constraintTop_toBottomOf="@+id/Et2"
-            style="@style/AlertDialog.AppCompat.Light"/>
+            style="@android:style/Widget.DeviceDefault.Button.Borderless"
+            tools:style="@style/Widget.AppCompat.Button.Borderless"/>
     <Button
             android:text="@string/registrarse"
             android:layout_width="223dp"
@@ -53,5 +54,6 @@
             android:id="@+id/btnRegis" app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="8dp"
             app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
             app:layout_constraintHorizontal_bias="0.475"
-            android:layout_marginTop="28dp" app:layout_constraintTop_toBottomOf="@+id/btnEntrar"/>
+            android:layout_marginTop="28dp" app:layout_constraintTop_toBottomOf="@+id/btnEntrar"
+            style="@android:style/Widget.Material.Button.Borderless"/>
 </android.support.constraint.ConstraintLayout>

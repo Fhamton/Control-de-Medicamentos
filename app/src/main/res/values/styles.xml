@@ -9,9 +9,9 @@
     </style>
 
     <style name="exampleToast">
-        <item name="colorBackground">#000</item>
+        <item name="colorBackground">@color/colorAccent</item>
         <item name="textColor">#fff</item>
-        <item name="strokeColor">#000</item>
+        <item name="strokeColor">#ff3d00</item>
         <item name="strokeWidth">3dp</item>
     </style>
 
