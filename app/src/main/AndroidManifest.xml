@@ -18,15 +18,25 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".Mostrar">
+        <activity android:name=".Mostrar"
+                  android:screenOrientation="portrait"
+        >
         </activity>
-        <activity android:name=".Login">
+        <activity android:name=".Login"
+                  android:screenOrientation="portrait"
+        >
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"
+                  android:screenOrientation="portrait"
+        >
         </activity>
-        <activity android:name=".Registrarse">
+        <activity android:name=".Registrarse"
+                  android:screenOrientation="portrait"
+        >
         </activity>
-        <activity android:name=".Password">
+        <activity android:name=".Password"
+                  android:screenOrientation="portrait"
+        >
         </activity>
     </application>
 
